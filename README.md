@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Miłosz
 #### I wanna be Junior FrontEnd Developer
-![I wanna be Junior FrontEnd Developer](https://github.com/miloszolejnik/miloszolejnik/blob/main/GithubImage.jpg)
+![And I want to be Junior FrontEnd Developer](https://github.com/miloszolejnik/miloszolejnik/blob/main/GithubImage.jpg)
 
 I'm Miłosz from Poland, selfthought FrontEnd Developer. I really enjoy learning languages and working on webdevelopment. I also enjoy ui, ux, and design in general.
 
