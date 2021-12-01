@@ -2,7 +2,7 @@
 #### I wanna be Junior FrontEnd Developer
 ![I wanna be Junior FrontEnd Developer](https://github.com/miloszolejnik/miloszolejnik/blob/main/GithubImage.jpg)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+I'm Miłosz from Poland, selfthought FrontEnd Developer. I really enjoy learning languages and working on webdevelopment. I also enjoy ui, ux, and design in general.
 
 Skills: REACT / JS / HTML / CSS
 
