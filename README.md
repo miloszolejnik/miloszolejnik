@@ -2,7 +2,7 @@
 #### I wanna be Junior FrontEnd Developer
 ![And I want to be Junior FrontEnd Developer](https://github.com/miloszolejnik/miloszolejnik/blob/main/GithubImage.jpg)
 
-I'm Miłosz from Poland, selfthought FrontEnd Developer. I really enjoy learning languages and working on webdevelopment. I also enjoy ui, ux, and design in general.
+I'm Miłosz from Poland, self thought FrontEnd Developer. I really enjoy learning languages and working on web development. I also enjoy ui, ux, and design in general.
 
 Skills: REACT / JS / HTML / CSS
 
