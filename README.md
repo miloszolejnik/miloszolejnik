@@ -4,7 +4,7 @@
 
 I'm Miłosz from Poland, self thought FrontEnd Developer. I really enjoy learning languages and working on web development. I also enjoy ui, ux, and design in general.
 
-Skills: REACT / JS / HTML / CSS
+Skills: REACT / StyledComponents / Sass
 
 
 
