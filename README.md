@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Miłosz
-#### And Front-End Developer
-![And I want to be Junior FrontEnd Developer](https://github.com/miloszolejnik/miloszolejnik/blob/main/GithubImage.jpg)
+#### And I'm Front-End Developer
+(https://github.com/miloszolejnik/miloszolejnik/blob/main/GithubImage.jpg)
 
 
 
